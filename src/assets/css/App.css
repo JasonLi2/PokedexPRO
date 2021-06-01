@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #0c4271 !important;
+}
+
+.anchor{
+    margin-left: 30px;
+}
+
+.App {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-color: #fafafa;
+    padding-top: 4rem;
+    min-height: 100vh;
+}
